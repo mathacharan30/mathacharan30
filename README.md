@@ -13,40 +13,6 @@ Motivated full stack developer with hands-on experience in building scalable web
 
 ---
 
-## 🧑‍💼 Experience
-
-### **Software Development Engineer Intern** — *Aurigo Software Technologies*  
-**Jun 2025 – Nov 2025**
-- Worked on **Aurigo Masterworks** using **C#, ASP.NET, JavaScript, XML, SQL**
-- Diagnosed and fixed performance bottlenecks, improving system reliability
-- Used **Git & Azure DevOps** for PRs, version control, and code reviews
-
-### **Freelance Full Stack Developer** — *Assured Services, Mysuru*  
-**Feb 2025 – Mar 2025**
-- Built and deployed a **React + Firebase** application on **Vercel**
-- Designed responsive UI and implemented real-time data handling
-
-### **Software Development Engineer Intern** — *Novus Webspace Technologies*  
-**Oct 2024 – Nov 2024**
-- Optimized **MERN stack APIs**, reducing response time by **30%**
-- Fixed 15+ bugs, improving platform stability by **40%**
-
----
-
-## 🚀 Projects
-
-### **Campus Connect**
-**React · Node.js · Express · MongoDB**
-- Platform for **resource sharing, alumni insights, and student Q&A**
-- Implemented **secure authentication**, **RBAC**, and resource management
-
-### **AgriWise**
-**Next.js · Node.js · Tailwind CSS · MongoDB**
-- Smart agriculture system with **weather-based crop recommendations**
-- Added **crop calendar alerts** and **real-time market price tracking**
-
----
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -85,21 +51,55 @@ Motivated full stack developer with hands-on experience in building scalable web
 
 ---
 
+## 🧑‍💼 Experience
+
+### **Software Development Engineer Intern** — *Aurigo Software Technologies*  
+**Jun 2025 – Nov 2025**
+- Worked on **Aurigo Masterworks** using **C#, ASP.NET, JavaScript, XML, SQL**
+- Diagnosed and fixed performance bottlenecks
+- Used **Git & Azure DevOps** for PRs and code reviews
+
+### **Freelance Full Stack Developer** — *Assured Services, Mysuru*  
+**Feb 2025 – Mar 2025**
+- Built and deployed a **React + Firebase** application on **Vercel**
+- Designed responsive UI and real-time data handling
+
+### **Software Development Engineer Intern** — *Novus Webspace Technologies*  
+**Oct 2024 – Nov 2024**
+- Optimized **MERN APIs**, reducing response time by **30%**
+- Fixed 15+ bugs, improving system stability by **40%**
+
+---
+
+## 🚀 Projects
+
+### **Campus Connect**
+**React · Node.js · Express · MongoDB**
+- Platform for **resource sharing, alumni insights, and student Q&A**
+- Implemented **secure authentication** and **RBAC**
+
+### **AgriWise**
+**Next.js · Node.js · Tailwind CSS · MongoDB**
+- Smart agriculture system with **weather-based recommendations**
+- Added **crop calendar alerts** and **real-time market prices**
+
+---
+
 ## 🏆 Achievements
 - DSA in Java — Apna College  
 - Full Stack Web Development — Apna College  
 - Hackathons: Flipkart GRID 6.0, TVS E.P.I.C 6.0  
-- Hack-Kshetra (**Top 30**), Hackfest (**Top 60 / 700+**), SIET Hackathon  
+- Hack-Kshetra (**Top 30**), Hackfest (**Top 60 / 700+**)
 
 ---
 
 📌 **Currently focusing on:**  
-- Advanced DSA & problem solving  
+- Advanced DSA  
 - Scalable full-stack systems  
-- SDE / Full Stack Developer opportunities  
+- SDE / Full Stack Developer roles  
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mathacharan30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
