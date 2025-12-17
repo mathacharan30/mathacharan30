@@ -1,137 +1,105 @@
-👋 Hi, I’m Matha Charan P
+# 👋 Hi, I’m Matha Charan P
 
-🎓 Computer Science Engineering Student (CGPA: 9.15)
-💻 Full Stack Developer | Software Development Enthusiast
-📍 Mysuru, India
+🎓 **Computer Science Engineering Student (CGPA: 9.15)**  
+💻 **Full Stack Developer | Software Development Engineer Aspirant**  
+📍 Mysuru, India  
 
-I’m a motivated full stack developer with experience building scalable web applications, working with modern tech stacks, and collaborating in fast-paced engineering teams. I enjoy solving problems, optimizing systems, and creating user-centered solutions.
+Motivated full stack developer with hands-on experience in building scalable web applications, optimizing APIs, and working in collaborative engineering environments. Strong foundation in **DSA, OOP**, and modern web technologies.
 
-🔗 Connect with Me
+---
 
-📧 Email: mathacharan001@gmail.com
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matha-charan-p-1444b3258)
 
-💼 LinkedIn: linkedin.com/in/matha-charan-p-1444b3258
+---
 
-🧑‍💻 GitHub: github.com/mathacharan30
+## 🧑‍💼 Experience
 
-🧑‍💼 Experience
-Software Development Engineer Intern
+### **Software Development Engineer Intern** — *Aurigo Software Technologies*  
+**Jun 2025 – Nov 2025**
+- Worked on **Aurigo Masterworks** using **C#, ASP.NET, JavaScript, XML, SQL**
+- Diagnosed and fixed performance bottlenecks, improving system reliability
+- Used **Git & Azure DevOps** for PRs, version control, and code reviews
 
-Aurigo Software Technologies (Jun 2025 – Nov 2025)
+### **Freelance Full Stack Developer** — *Assured Services, Mysuru*  
+**Feb 2025 – Mar 2025**
+- Built and deployed a **React + Firebase** application on **Vercel**
+- Designed responsive UI and implemented real-time data handling
 
-Enhanced Aurigo Masterworks using C#, ASP.NET, JavaScript, XML, and SQL
+### **Software Development Engineer Intern** — *Novus Webspace Technologies*  
+**Oct 2024 – Nov 2024**
+- Optimized **MERN stack APIs**, reducing response time by **30%**
+- Fixed 15+ bugs, improving platform stability by **40%**
 
-Diagnosed and resolved performance issues, improving system reliability
+---
 
-Collaborated using Git and Azure DevOps for PRs, code reviews, and version control
+## 🚀 Projects
 
-Freelance Full Stack Developer
+### **Campus Connect**
+**React · Node.js · Express · MongoDB**
+- Platform for **resource sharing, alumni insights, and student Q&A**
+- Implemented **secure authentication**, **RBAC**, and resource management
 
-Assured Services, Mysuru (Feb 2025 – Mar 2025)
+### **AgriWise**
+**Next.js · Node.js · Tailwind CSS · MongoDB**
+- Smart agriculture system with **weather-based crop recommendations**
+- Added **crop calendar alerts** and **real-time market price tracking**
 
-Built and deployed a React + Firebase application on Vercel
+---
 
-Designed responsive UI and implemented real-time data interactions
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-Software Development Engineer Intern
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Novus Webspace Technologies (Oct 2024 – Nov 2024)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-Optimized MERN stack APIs, reducing response time by 30%
+![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-Fixed 15+ bugs and improved platform stability by 40%
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-🚀 Projects
-Campus Connect
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-Tech Stack: React, Node.js, Express.js, MongoDB
+---
 
-Full-stack platform for resource sharing, alumni insights, and student Q&A
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mathacharan30&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mathacharan30&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathacharan30&theme=dark&hide_border=false&layout=compact)
 
-Implemented secure authentication, RBAC, and structured resource management
+---
 
-AgriWise
+## 🏆 Achievements
+- DSA in Java — Apna College  
+- Full Stack Web Development — Apna College  
+- Hackathons: Flipkart GRID 6.0, TVS E.P.I.C 6.0  
+- Hack-Kshetra (**Top 30**), Hackfest (**Top 60 / 700+**), SIET Hackathon  
 
-Tech Stack: Next.js, Node.js, Tailwind CSS, MongoDB
+---
 
-Smart agriculture system with weather-based crop recommendations
+📌 **Currently focusing on:**  
+- Advanced DSA & problem solving  
+- Scalable full-stack systems  
+- SDE / Full Stack Developer opportunities  
 
-Added crop calendar alerts and real-time market price tracking
+---
 
-🛠️ Technical Skills
+[![](https://visitcount.itsvg.in/api?id=mathacharan30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Core CS
 
-Data Structures & Algorithms
-
-Object-Oriented Programming (OOP)
-
-Programming Languages
-
-Java
-
-C (Intermediate)
-
-Python (Working Knowledge)
-
-JavaScript
-
-Web & Frameworks
-
-React, Redux
-
-Node.js, Express.js
-
-ASP.NET
-
-Next.js
-
-Databases
-
-MongoDB
-
-SQL
-
-Tools & Platforms
-
-Git
-
-Azure DevOps
-
-Vercel
-
-VS Code
-
-Others
-
-HTML, CSS, XML
-
-Tailwind CSS
-
-🏆 Certifications & Achievements
-
-DSA in Java — Apna College
-
-Full Stack Web Development — Apna College
-
-Hackathons:
-
-Flipkart GRID 6.0
-
-TVS E.P.I.C 6.0
-
-Hack-Kshetra (Top 30)
-
-Hackfest (Top 60 / 700+)
-
-SIET Hackathon
-
-📌 Current Focus
-
-Strengthening DSA & system design
-
-Building scalable full-stack applications
-
-Preparing for SDE / Full Stack Developer roles
-
-⭐ If you like my work, feel free to explore my repositories and connect with me!
