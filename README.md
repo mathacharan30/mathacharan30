@@ -53,7 +53,7 @@ Full Stack Developer experienced in building production web applications with **
 **AI / LLM**  
 ![RAG](https://img.shields.io/badge/RAG-6E44FF.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20Embeddings-0A7E8C.svg?style=for-the-badge&logo=pinecone&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036.svg?style=for-the-badge&logo=groq&logoColor=white)
 
 ---
 
@@ -97,10 +97,10 @@ Full Stack Developer experienced in building production web applications with **
 - Full-stack campus platform with **JWT authentication**, **role-based access control**, alumni networking, and resource sharing.
 - Designed and implemented REST APIs for authentication, user management, and resource management with Express.js and MongoDB.
 
-### **Supply Chain RAG System** — React · Node.js · Qdrant · Gemini API
+### **Supply Chain RAG System** — React · Node.js · Qdrant · Groq API
 [![GitHub](https://img.shields.io/badge/Code-121011?logo=github&logoColor=white)](https://github.com/mathacharan30/RAG-PROJECT) [![Live](https://img.shields.io/badge/Live-46E3B7?logo=render&logoColor=white)](https://supply-chain-chatbot-frontend-1.onrender.com/)
 - **Retrieval-Augmented Generation** app that chunks documents, stores vector embeddings in **Qdrant**, and retrieves relevant chunks via semantic search.
-- Generates grounded, cited responses from the retrieved context using the **Gemini API**.
+- Generates grounded, cited responses from the retrieved context using the **Groq API**.
 
 ---
 
