@@ -58,9 +58,9 @@ Full Stack Developer experienced in building production web applications with **
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mathacharan30&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=mathacharan30&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathacharan30&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=mathacharan30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=mathacharan30&theme=dark&hide_border=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathacharan30&theme=dark&hide_border=false&layout=compact)
 
 ---
 
