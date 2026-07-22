@@ -13,6 +13,7 @@ Full Stack Developer experienced in building production web applications with **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matha-charan-p-1444b3258)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mathacharan30)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mathacharan001@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Matha_charan/)
 
 ---
 
@@ -61,6 +62,11 @@ Full Stack Developer experienced in building production web applications with **
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=mathacharan30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=mathacharan30&theme=dark&hide_border=false)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mathacharan30&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🧩 LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Matha_charan?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/Matha_charan/)
 
 ---
 
